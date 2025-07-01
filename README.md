@@ -1,2 +1,1 @@
-# angular-by-udemy
-lo saque de udemy
+# proyecto desarrollado en angular (ts) y java
